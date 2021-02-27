@@ -22,7 +22,7 @@ NPS Api
 ## Features
 
 - 💻 **Nodejs** — A lib that provides a way to create api app
-- 🧪 **TDD** — styled-components
+- 🧪 **TDD** — use jets
 - 💖 **Lint** — ESlint/Prettier/Editor Config
 - 🎲 **Typeorm** - ORM for typescripts
 - 📧 **Email** - send email the survey
