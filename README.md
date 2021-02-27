@@ -21,7 +21,7 @@ NPS Api
 
 ## Features
 
-- 💻 **Nodejs** — A lib that provides a way to create web app
+- 💻 **Nodejs** — A lib that provides a way to create api app
 - 🧪 **TDD** — styled-components
 - 💖 **Lint** — ESlint/Prettier/Editor Config
 - 🎲 **Typeorm** - ORM for typescripts
