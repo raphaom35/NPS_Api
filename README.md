@@ -13,7 +13,7 @@ NPS Api
 </p>
 
 <div align="center">
-<img src="/email.pdf" width="400" />
+<img src="/email.PNG" width="400" />
 
 </div>
 
