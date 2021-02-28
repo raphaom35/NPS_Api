@@ -13,9 +13,6 @@ NPS Api
 </p>
 
 <div align="center">
- <p>
-    Email Sent
-</p>
 <img src="/email.PNG" width="500" />
 
 </div>
