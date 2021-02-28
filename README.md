@@ -16,7 +16,7 @@ NPS Api
  <p>
     Email Sent
 </p>
-<img src="/email.PNG" width="400" />
+<img src="/email.PNG" width="500" />
 
 </div>
 
